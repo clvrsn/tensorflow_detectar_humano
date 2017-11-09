@@ -1,0 +1,42 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cleverson/pessoal/cleverson/workspace/mestrado/detector_humanos/OpenCV/modules/superres/perf/perf_main.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_superres",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/home/cleverson/pessoal/cleverson/workspace/mestrado/detector_humanos/OpenCV/modules/superres/perf/perf_superres.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_superres",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "/home/cleverson/pessoal/cleverson/workspace/mestrado/detector_humanos/OpenCV/modules/superres/perf/perf_precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_superres",
+				"PerfTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Main",
+			"opencv_superres",
+			"PerfTest"
+		],
+		"name" : "opencv_perf_superres"
+	}
+}
